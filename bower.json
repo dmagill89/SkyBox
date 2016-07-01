@@ -1,0 +1,27 @@
+{
+  "name": "SkyBox",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dmagill89/SkyBox",
+  "authors": [
+    "David Magill"
+  ],
+  "description": "Learning how to make a sky box",
+  "main": "index.js",
+  "keywords": [
+    "WebGl",
+    "Three.js",
+    "three",
+    "skybox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  }
+}

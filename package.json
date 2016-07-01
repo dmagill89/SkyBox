@@ -1,0 +1,28 @@
+{
+  "name": "skybox",
+  "version": "0.0.0",
+  "description": "Learning how to make a sky box",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmagill89/SkyBox.git"
+  },
+  "keywords": [
+    "WebGl",
+    "Three.js",
+    "Skybox"
+  ],
+  "author": "David Magill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmagill89/SkyBox/issues"
+  },
+  "homepage": "https://github.com/dmagill89/SkyBox#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
